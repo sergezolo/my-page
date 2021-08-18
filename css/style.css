@@ -654,7 +654,7 @@ img{
 }
 
 .footer-link:hover{
-    color: var(--first-color);
+    color: var(--first-color-alt);
 }
 
 .footer-social{
@@ -663,7 +663,7 @@ img{
 }
 
 .footer-social:hover {
-    color: var(--first-color);
+    color: var(--first-color-alt);
 }
 
 .footer-icon{
